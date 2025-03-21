@@ -8,7 +8,6 @@ public class JpaRepositoriesDemoApplication {
 
 	public static void main(String[] args)
 	{
-
 		SpringApplication.run(JpaRepositoriesDemoApplication.class, args);
 	}
 
